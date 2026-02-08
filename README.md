@@ -72,5 +72,3 @@ This project was created as part of my **Power BI Upskilling Journey** to streng
 * Performance Analysis
 * Data Visualization best practices
 * DAX & Analytical Thinking
-
-Tell me what you prefer 🚀
